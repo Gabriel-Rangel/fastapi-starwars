@@ -1,2 +1,2 @@
 def sum():
-    assert 1 + 1 == 2
+    assert True is False
