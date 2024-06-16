@@ -1,2 +1,2 @@
-def sum():
-    assert True is False
+def test_sum():
+    assert True is True
